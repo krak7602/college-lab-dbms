@@ -1,0 +1,16 @@
+1. Select all customers with a customername starting with "a"
+2. Select all customers with a customername starting with "a" or "A"
+3. Modify customer names such that all customer names start with a capital letter
+4. Find city values ending with "a"
+5. Return first 3 characters of salesman_ID //left
+6. Find s salesmanids with "tmp" in any position
+7. Find count of city values that start with "T"
+8. Select customer names starting with D and of atleast 4 characters
+9. Finds city values that start with "K" and are at least 2 characters in length
+10.Finds city values that start with "K" and are at least 7 characters in length
+11.Finds city values that start with "K" and ends with "m"
+12.Display salesman details with salesman_ID, total amount given as discount and maximum
+discount provided by him in percentage with % symbol
+13.Display city names in uppercase
+14.Update salesman_ID of all salesman from Ernakulam by removing the prefix "Ekm"
+15.Display total sales amount of each salesperson till today with today's date in dd-mon-yyyy

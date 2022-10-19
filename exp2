@@ -1,0 +1,56 @@
+1. Return details of all managers from employee table sorted alphabetically by name.
+2. Return details of all employees in department 40 ordered by EMPNO.
+3. Return information about all female employee ordered by NAME.
+4. Find Minimum, Maximum and Average salary of employees in each department.
+5. Find Maximum and Minimum commission paid(COMM),total commission paid and
+count of employees who were paid with commission.
+6. Number of employees listed in each job.
+7. Total salary paid to each job in the category.
+8. Return all DEPT_ÑOs in employee table(Ensure that each DEPT_ÑO appears only once).
+9. Return EMPNO,NAME and SALARY of females in department 10.
+10.Return EMPNO, NAME and SALARY of all male managers ordered by NAME.
+11.Return NAME and JOB of all female sales man and managers.
+12.Display EMPNO and NAME of employees in employee table who are a either manager or
+a clerk in department 50.
+13.List the name of employee who are neither a clerk nor a salesman.
+14.Return details of all clerks working in departments other than department 10.
+15. Find names of employees containing letters U and E.
+16.List all employee who earned commission.
+17. Find EMPNO ,NAME and JOB of all females who are not managers.
+18.Find EMPNO,NAME and SALARY of all employees who earn more than 10000 but less
+than 40000.
+19.Use lN operator to find NAME and EMPNO of EMPLOYEE who are analyst or manager
+ordered by NAME.
+20.Find the employee number, name and salary who been paid commission and whose salary
+is greater than 30000 .
+21.Find DEP-NO ,DEP-NAME, SALARY, JOB, SEX ordered by EMPNO within
+department
+22.Display the name of employee and dependant name if dependant is staying in the same
+location where employee is working .
+23.Find company location of employee named Watson.
+24.Find name, EMPNO,DEP-NAME for all employee who work in ‘Trichur’ and order by
+EMPNO in descending order
+25.Retrieve NAME and SALARY of all employee who earned more than average salary.
+26.Find NAME, JOB, DEP NAME, LOCATION of all female employee order by
+EMPNAME.
+27.Find the EMPNAME,DEP,NAME of all manager order by department name.
+28.Find NAME and DEP-NAME of employee who earns highest salary.
+29.Find name, department name, commission of all employee who paid commission order by
+name.
+30.Display employee name and department name of all employees working in departments
+that has at least three employees. Order the output in alphabetical order first by department
+name and then by employee name.
+31.Find name, department name and commission of all employees who NOT paid
+commission order by name.
+32.List name and salary of all employee in department number l0 and 30.
+33.List jobs of employees in department 30 which are not done in department 40.
+34.List out job and salary of employees in department l0 and 40 who draw the same salary
+(result- no record found).
+35.Create a view to display EMPNO' NAME ' JOB of employee from employee table who
+works as manager.
+36.Select EMPNO, NAME,JOB and SALARY of employee who works as clerk and having
+salary greater than 1650.
+37.Create an index for column FNAME and LNAME in Dependant table.
+38.Delete person with ID=1031 in Dependant table.
+39.Return EMPNO,NAME and SALARY of any one of the females in department 10.
+40.Delete the employee Karthika with all her dependants.
